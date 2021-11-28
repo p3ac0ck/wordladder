@@ -12,7 +12,20 @@ Input:
 	start = TOON 
 	target = PLEA 
 
-Output: 7 
+Output: 6
 
 	TOON - POON - POIN - POIE - PLIE - PLEE - PLEA 
 
+The python program available in the repository is given below input: 
+
+Input:
+   
+	Dictionary = {MAIN,MAIL,RUIN,RAIN} 
+	start = SAIL
+	target = RUIN
+ 
+The expected results are shown below: 
+
+output: 4
+ 
+	SAIL – MAIL – MAIN – RAIN - RUIN
